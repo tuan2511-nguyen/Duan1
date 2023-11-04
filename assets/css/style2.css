@@ -1,0 +1,32 @@
+
+.information{
+    box-sizing: border-box;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 10px 0px;
+}
+.user-infor{
+    margin-right: 200px;
+}
+.user-img{
+    display: flex;
+}
+.user-img img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#file-upload {
+    display: none;
+}
+#upload-button{
+    margin: 70px 50px;
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+#upload-button:hover{
+   color: rgb(158, 158, 210);
+}
+#add-category{
+    width: 600px;
+}

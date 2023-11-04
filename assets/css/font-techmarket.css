@@ -150,7 +150,7 @@ transform: scale(-1, 1);
   content: "\43";
 }
 .tm-compare:before {
-  content: "\44";
+  content: "";
 }
 .tm-listing-large:before {
   content: "\45";

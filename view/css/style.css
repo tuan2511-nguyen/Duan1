@@ -3722,6 +3722,12 @@ header.version_2 .menu ul li ul li ul {
   overflow-x: hidden;
   position: relative;
 }
+.notification {
+  padding: 20px;
+  background-color: #f44336; /* Màu đỏ */
+  color: white;
+}
+
 
 .mm-menu {
   box-sizing: border-box;
